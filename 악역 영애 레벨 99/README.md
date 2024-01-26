@@ -3,10 +3,13 @@
 이 스토리지는 소설가가 되자(syosetu.com)의 공개된 소설만을 다룹니다.
 
 소설 원본 : ncode.syosetu.com/n0284ev (悪役令嬢レベル99～私は裏ボスですが魔王ではありません～)
+
 소설 번역 원본 : blog.naver.com/syttountry
+
 소설 번역 수정자 : github.com/TranslatedLibrary
 
 - English
+
 This storage only covers published novels from Let's Become a Novelist (syosetu.com).
 
 Original novel : ncode.syosetu.com/n0284ev (悪役令嬢レベル99～私は裏ボスですが魔王ではありません～)
