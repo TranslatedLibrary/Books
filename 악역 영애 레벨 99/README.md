@@ -16,7 +16,9 @@ This storage only covers published novels from Let's Become a Novelist (syosetu.
 
 
 Original novel : ncode.syosetu.com/n0284ev (悪役令嬢レベル99～私は裏ボスですが魔王ではありません～)
+
 Original translation of the novel : blog.naver.com/syttountry
+
 Novel translation modifier : github.com/TranslatedLibrary
 
 
